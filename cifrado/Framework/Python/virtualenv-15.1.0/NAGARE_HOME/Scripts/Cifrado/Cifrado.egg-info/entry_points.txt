@@ -1,0 +1,4 @@
+
+    [nagare.applications]
+    Cifrado = Cifrado.app:app
+    
